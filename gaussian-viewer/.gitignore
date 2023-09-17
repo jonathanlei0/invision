@@ -1,0 +1,10 @@
+.vscode/*
+!.vscode/launch.json
+venv/
+VideoProcessingFramework/*
+diff-gaussian-rasterization/*
+!models
+models/*
+*.crt
+*.key
+*.pem
